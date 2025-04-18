@@ -1,0 +1,17 @@
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.deps.json
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.dll
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.pdb
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.dll
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.dll
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.pdb
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.pdb
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\obj\Debug\net8.0\ASC.Data.47B3A96C.Up2Date
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.dll
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll
