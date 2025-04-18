@@ -1,0 +1,12 @@
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.Model\bin\Debug\net8.0\ASC.Model.deps.json
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.Model\bin\Debug\net8.0\ASC.Model.dll
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.Model\bin\Debug\net8.0\ASC.Model.pdb
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.Model\obj\Debug\net8.0\ASC.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.Model\obj\Debug\net8.0\ASC.Model.dll
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
+C:\Users\ASUS\Downloads\Lab5-main\Lab5-main\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll
